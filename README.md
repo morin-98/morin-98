@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @morin-98
 - 👀 I’m interested in practice 
-- 🌱 I’m currently learning react
-- 💞️ I’m looking to collaborate on anyway
+- 🌱 I’m currently learning html css js
+- 💞️ I’m looking to collaborate on
 - 📫 How to reach me ...
 
 <!---
